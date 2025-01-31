@@ -1,3 +1,3 @@
 this second file
 this is the second change from local repo.
-this is another the second file is added.
+this is another the second file is added.Reading is easier, too, in the new Reading view. You can collapse parts of the document and focus on the text you want. If you need to stop reading before you reach the end, Word remembers where you left off - even on another device.
